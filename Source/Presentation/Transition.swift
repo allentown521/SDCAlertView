@@ -1,6 +1,6 @@
 import UIKit
 
-class Transition: NSObject, UIViewControllerTransitioningDelegate {
+class AlertTransition: NSObject, UIViewControllerTransitioningDelegate {
 
     private let alertStyle: AlertControllerStyle
 
